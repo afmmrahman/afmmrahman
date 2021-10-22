@@ -3,6 +3,8 @@
 
 I'm an Innovative optimized solution seeker- offering expertise in full software development life cycle - from concept through delivery of next-generation application and customizable solutions. Good understanding in advance development methodologies, tools and process contributing to the design and roll-out of software application. I am ambitious, adventurous, assiduous, animated and an alliteration advocate.
 
+Currently I am doing a internship program at Integrify Oy with the Full Stack developer position.
+
 Skills: JavaScript / React / HTML / CSS / TypeScript / Node.js
 
 
